@@ -48,7 +48,7 @@ Dino-Desarrollo-de-Videojuegos/
    ```bash
    git clone https://github.com/pilarplummer/Dino-Desarrollo-de-Videojuegos-.git
 2. Abrir el proyecto en Godot Engine (v4.4.1.stable.official).
-3. Ejecutar la escena principal desde el editor (scenes/main.tscn o la que corresponda).
+3. Ejecutar la escena principal desde el editor (main).
 4. ¡Listo! El dinosaurio está listo para correr :)
 
 ---
