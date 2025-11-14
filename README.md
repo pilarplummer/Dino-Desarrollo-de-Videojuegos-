@@ -7,14 +7,14 @@ Desarrollado como parte de la materia de **Desarrollo de Videojuegos**, por el P
 
 ## Descripción del juego
 
-El jugador controla a un pequeño dinosaurio que debe esquivar obstáculos mientras corre por un desierto interminable.  
+El jugador controla a un pequeño dinosaurio que debe esquivar obstáculos mientras corre por un bosque interminable.  
 Cuanto más tiempo sobreviva, mayor será su puntaje.  
 A diferencia del juego original, esta versión cuenta con:
 
 - 🎨 Una estética cuidada y moderna.  
 - 🌅 Fondos animados y paleta de colores personalizada.  
-- 🔊 Efectos de sonido y música ambiente.  
-- 💀 Pantalla de **“Restart Game”** tras perder.  
+- 🔊 Efectos de sonido.  
+- 💀 Pantalla de **“RESTART”** tras perder.  
 - 🧩 Sistema de puntaje y detección de colisiones.
 
 ---
@@ -63,4 +63,4 @@ Año: 2025
 **Créditos adicionales**  
 Inspirado en el clásico Chrome Dino Game.  
 Todos los assets visuales y sonoros fueron seleccionados o adaptados con fines educativos.  
-Agradecimientos a los docentes de la cátedra por su guía y acompañamiento.  
+Agradecimientos al docente de la cátedra por su guía y acompañamiento.  
